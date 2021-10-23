@@ -1,6 +1,0 @@
-token = "d464a412ae97183736e77e0657c1827c342fee3635cf733bfa0333adbde63b16c5f4212abedde24fd26c5"
-confirmation_token = "463cfdbd"
-access_token = 'e560d49da603d68b9a598e890b085ffb38ab293bdd9771361e8e15eca965bb952b2558575a8f3da90dde5'
-#https://oauth.vk.com/blank.html#access_token=98ff2eb4057d1cd2913d1b524198a44ac84d18e0ac2b6fe322dbe760fd2b44ad2abf6863d32fd833585df&expires_in=0&user_id=436020620
-
-#52df44081f4f118a898bc30634e44c22a51845917f46f59db7e3f39bf3ddd5ebfc9de0057cee024b6c55e
